@@ -1,0 +1,40 @@
+.heading {
+  margin: 70px auto;
+  color: #71dfd8;
+  text-align: center;
+}
+.background img {
+  height: 100vh;
+}
+.icon-feat {
+  margin-top: 10px;
+}
+.icon-feat i {
+  border: 2px solid #71dfd8;
+  border-radius: 50%;
+  width: 60px;
+  height: 60px;
+  line-height: 60px;
+  font-size: 26px;
+  border-top: 5px solid #16acb6;
+}
+.icon-feat p {
+  color: #555;
+  margin-top: 5px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: 0.3s all ease-in-out;
+}
+.icon-feat p:hover {
+  color: #16acb6;
+}
+.social i {
+  color: #16acb6;
+  font-size: 26px;
+  margin-right: 20px;
+  cursor: pointer;
+  transition: 0.3s all ease-in-out;
+}
+.social i:hover {
+  color: rgb(123, 207, 123);
+}
